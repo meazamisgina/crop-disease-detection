@@ -9,5 +9,5 @@
 - Built with **PyTorch + ResNet50 + Streamlit**
 
 ## How to Run
-uv pip install -r requirements.txt
-streamlit run app.py
+- uv pip install -r requirements.txt
+- streamlit run app.py
