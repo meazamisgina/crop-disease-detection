@@ -1,1 +1,9 @@
-__pycache__/\n*.pth\nenv/\ndata/
+__pycache__/
+*.pth
+env/
+.venv/
+data/
+*.swp
+*.save
+sample_batch.png 
+training_history.png 
