@@ -5,5 +5,3 @@ env/
 data/
 *.swp
 *.save
-sample_batch.png 
-training_history.png 
